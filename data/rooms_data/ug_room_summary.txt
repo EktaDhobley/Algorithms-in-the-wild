@@ -1,0 +1,37 @@
+---------- has_laundry ----------
+1    4523
+0     223
+Name: has_laundry, dtype: int64
+---------- floor_plan ----------
+Traditional Double    4590
+Traditional Single     156
+Name: floor_plan, dtype: int64
+---------- residence_type ----------
+Suite                         2158
+Apartment                     1808
+Traditional Residence Hall     780
+Name: residence_type, dtype: int64
+---------- hall_id ----------
+BS     976
+NCA    640
+SA     640
+RA     528
+MS     282
+MH     223
+MZH    223
+CS     180
+JS     180
+MRS    180
+TS     180
+WS     180
+AH     167
+BH     167
+Name: hall_id, dtype: int64
+---------- has_private_bathroom ----------
+1    3966
+0     780
+Name: has_private_bathroom, dtype: int64
+---------- has_accessibility_ramps ----------
+0    3130
+1    1616
+Name: has_accessibility_ramps, dtype: int64
