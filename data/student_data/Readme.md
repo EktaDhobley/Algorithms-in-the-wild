@@ -1,6 +1,4 @@
 ## Description of the files
-- final_student_merged_data.csv : Final dataset with grad and undergrad students with preferences added
-- grad_student_choices.csv : Preferences of grad students
-- gradudate_students_data.csv : Graduadte Students Data
-- ug_students_choices.csv : Preferences of undergrad students
-- undergrad_students_dataset.csv : Graduadte Students Data
+- datasetA_with_roommate_pref.csv : Benchmark Dataset A (5330 students) with roommate preferrences
+- datasetB_with_roommate_pref.csv : Benchmark Dataset B (10660 students) with roommate preferrences
+- final_student_merged_datasetA.csv : Benchamrk Dataset A (5330 students) witout roommate preferrences
